@@ -1,4 +1,5 @@
 <wpml-config>   
+
     <admin-texts>
         <key name="theme_mods_kadence">
             <key name="mobile_trigger_label" />
